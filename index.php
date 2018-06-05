@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title>
-		PAGINA DE INICIO
+		BIENVENIDOS
 	</title>
 </head>
 <body>
-ACCESO A TODOS LOS USUARIOS
+	YOU ARE FROM
 </body>
 </html>
